@@ -277,195 +277,243 @@ var simplemaps_namap_mapdata={
       name: "Demo Day Sunbelt Fire",
       color: "#3076bc",
       lat: 33.121259,
-      lng: -87.570035
+      lng: -87.570035,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "1": {
       name: "Demo Day CASCO",
       color: "#3076bc",
       lat: 29.940093,
-      lng: -90.166814
+      lng: -90.166814,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "2": {
       name: "Demo Day METRO",
       color: "#3076bc",
       lat: 29.748427,
-      lng: -98.420387
+      lng: -98.420387,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "3": {
       name: "Demo Day AEST",
       color: "#3076bc",
       lat: 32.28582,
-      lng: -81.354579
+      lng: -81.354579,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "4": {
       name: "Demo Day MECO",
       color: "#3076bc",
       lat: 27.96764,
-      lng: -82.34606
+      lng: -82.34606,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "5": {
       name: "Demo Day LA",
       color: "#3076bc",
       lat: 36.116213,
-      lng: -81.197904
+      lng: -81.197904,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "6": {
-      name: "Demo Day Bauer Compressors",
-      color: "#3076bc",
-      lat: 36.778261,
-      lng: -119.417932
-    },
-    "7": {
       name: "Demo Day Atlantic Emergency",
       color: "#3076bc",
       lat: 38.022132,
-      lng: -78.002176
+      lng: -78.002176,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
-    "8": {
+    "7": {
       name: "Demo Day Galls",
       color: "#f99c1c",
       lat: 39.995345,
-      lng: -74.790444
+      lng: -74.790444,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
-    "9": {
+    "8": {
       name: "Demo Day MES",
       color: "#3076bc",
       lat: 33.291105,
       lng: -85.117036,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: "",
       url: "https://www.eventbrite.com/e/hose-nozzle-training-event-tickets-1988401033016"
     },
-    "10": {
+    "9": {
       name: "Demo Day United",
       color: "#3076bc",
       lat: 31.454266,
-      lng: -110.98553
+      lng: -110.98553,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
-    "11": {
-      name: "Demo Day Air One",
-      color: "#f99c1c",
-      lat: 42.946368,
-      lng: -95.550007
-    },
-    "12": {
+    "10": {
       name: "Demo Day LN Curtis",
       color: "#3076bc",
       lat: 60.566426,
       lng: -151.225666,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: "",
       url: "https://www.kenai.city/fire"
     },
-    "13": {
+    "11": {
       name: "Demo Day Norse Fire Equipment",
       color: "#f99c1c",
       lat: 44.061141,
-      lng: -103.183979
+      lng: -103.183979,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
+    },
+    "12": {
+      name: "Demo Day Colden Enterprises",
+      color: "#3076bc",
+      lat: 42.992692,
+      lng: -76.201928,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
+    },
+    "13": {
+      name: "Demo Day Colden Enterprises",
+      color: "#3076bc",
+      lat: 42.951436,
+      lng: -76.568289,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "14": {
       name: "Demo Day Colden Enterprises",
       color: "#3076bc",
-      lat: 42.992692,
-      lng: -76.201928
+      lat: 43.063765,
+      lng: -77.030735,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
     "15": {
-      name: "Demo Day Colden Enterprises",
-      color: "#3076bc",
-      lat: 42.951436,
-      lng: -76.568289
-    },
-    "16": {
-      name: "Demo Day Colden Enterprises",
-      color: "#3076bc",
-      lat: 43.063765,
-      lng: -77.030735
-    },
-    "17": {
-      name: "Demo Day Bauer Compressors",
-      color: "#3cb54a",
-      lat: 36.600224,
-      lng: -121.894749
-    },
-    "18": {
       name: "Demo Day Metro",
       color: "#3cb54a",
       lat: 33.237427,
-      lng: -96.621284
+      lng: -96.621284,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
-    "19": {
+    "16": {
       name: "Demo Day Feld Fire",
       color: "#3076bc",
       lat: 41.632788,
-      lng: -93.781905
+      lng: -93.781905,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
-    "20": {
+    "17": {
       name: "Road Show Atlantic",
-      color: "#3cb54a",
+      color: "#3076bc",
       lat: 41.311333,
-      lng: -81.504649
+      lng: -81.504649,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
-    "21": {
+    "18": {
       name: "Road Show Atlantic",
-      color: "#3cb54a",
+      color: "#3076bc",
       lat: 39.996896,
-      lng: -82.760366
+      lng: -82.760366,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
-    "22": {
+    "19": {
       name: "Road Show Atlantic",
       color: "#3076bc",
       lat: 39.817462,
-      lng: -84.037519
+      lng: -84.037519,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
-    "23": {
+    "20": {
       name: "Road Show Atlantic",
       color: "#f99c1c",
       lat: 39.007485,
-      lng: -84.471725
+      lng: -84.471725,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
-    "24": {
+    "21": {
       name: "Road Show Atlantic",
       color: "#f99c1c",
       lat: 38.185001,
-      lng: -85.262615
+      lng: -85.262615,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
-    "25": {
-      name: "Demo Day 1st Out Specialty",
-      color: "#3cb54a",
-      lat: 40.438661,
-      lng: -79.997235
-    },
-    "26": {
-      name: "Demo Day Dinges",
-      color: "#3076bc",
-      lat: 42.126969,
-      lng: -89.255662
-    },
-    "27": {
-      name: "Demo Day Dinges",
-      color: "#3076bc",
-      lat: 44.465752,
-      lng: -84.587311
-    },
-    "28": {
+    "22": {
       name: "Demo Day Dinges",
       color: "#3076bc",
       lat: 41.445459,
-      lng: -87.007355
+      lng: -87.007355,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     },
-    "29": {
+    "23": {
       name: "Demo Day Galls - Long Island",
       color: "#3076bc",
       lat: 40.752273,
-      lng: -73.447809
-    },
-    "30": {
-      name: "Demo Day Dinges",
-      color: "#3076bc",
-      lat: 38.271578,
-      lng: -92.719538
-    },
-    "31": {
-      name: "Demo Day Dinges",
-      color: "#3076bc",
-      lat: 41.180437,
-      lng: -97.550704
+      lng: -73.447809,
+      eventType: "",
+      startDate: "",
+      endDate: "",
+      state: ""
     }
   },
   labels: {
